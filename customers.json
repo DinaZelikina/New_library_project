@@ -1,0 +1,37 @@
+[
+  {
+    "customer_id": "1",
+    "name": "Julia Roberts",
+    "city": "London",
+    "birth_date": "11.05.1972",
+    "is_removed": false
+  },
+  {
+    "customer_id": "2",
+    "name": "Brad Pitt",
+    "city": "Paris",
+    "birth_date": "17.12.1967",
+    "is_removed": true
+  },
+  {
+    "customer_id": "3",
+    "name": "Tom Cruise",
+    "city": "Berlin",
+    "birth_date": "28.03.1964",
+    "is_removed": false
+  },
+  {
+    "customer_id": "4",
+    "name": "Jennifer Aniston",
+    "city": "Haifa",
+    "birth_date": "04.10.1969",
+    "is_removed": false
+  },
+  {
+    "customer_id": "5",
+    "name": "Johnny Depp",
+    "city": "Madrid",
+    "birth_date": "12.08.1957",
+    "is_removed": false
+  }
+]

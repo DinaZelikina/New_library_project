@@ -1,0 +1,59 @@
+{
+  "2_1": {
+    "customer": "2",
+    "book": "7",
+    "title": "Harry Potter",
+    "loan_date": "11.12.2023",
+    "return_date": "12.12.2023"
+  },
+  "4_1": {
+    "customer": "4",
+    "book": "18",
+    "title": "Harry Potter",
+    "loan_date": "01.12.2023"
+  },
+  "4_2": {
+    "customer": "4",
+    "book": "12",
+    "title": "The Godfather",
+    "loan_date": "11.11.2023",
+    "return_date": "12.12.2023"
+  },
+  "1_1": {
+    "customer": "1",
+    "book": "1",
+    "title": "1984",
+    "loan_date": "04.12.2023",
+    "return_date": "01.12.2023"
+  },
+  "1_2": {
+    "customer": "1",
+    "book": "6",
+    "title": "Carrie",
+    "loan_date": "04.12.2023"
+  },
+  "1_3": {
+    "customer": "1",
+    "book": "3",
+    "title": "It",
+    "loan_date": "08.12.2023"
+  },
+  "2_2": {
+    "customer": "2",
+    "book": "17",
+    "title": "Three Comrades",
+    "loan_date": "12.12.2023"
+  },
+  "2_3": {
+    "customer": "2",
+    "book": "14",
+    "title": "The Lord of the Rings",
+    "loan_date": "12.12.2023"
+  },
+  "3_1": {
+    "customer": "3",
+    "book": "19",
+    "title": "Fight Club",
+    "loan_date": "12.12.2023"
+  }
+}

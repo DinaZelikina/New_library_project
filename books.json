@@ -1,0 +1,154 @@
+[
+  {
+    "book_id": "1",
+    "title": "1984",
+    "author": "George Orwell",
+    "year": "1949",
+    "max_loan_time": "5",
+    "is_removed": false
+  },
+  {
+    "book_id": "2",
+    "title": "1984",
+    "author": "George Orwell",
+    "year": "1949",
+    "max_loan_time": "5",
+    "is_removed": false
+  },
+  {
+    "book_id": "3",
+    "title": "It",
+    "author": "Stephen King",
+    "year": "1986",
+    "max_loan_time": "2",
+    "is_removed": false
+  },
+  {
+    "book_id": "4",
+    "title": "It",
+    "author": "Stephen King",
+    "year": "1986",
+    "max_loan_time": "2",
+    "is_removed": false
+  },
+  {
+    "book_id": "5",
+    "title": "It",
+    "author": "Stephen King",
+    "year": "1986",
+    "max_loan_time": "2",
+    "is_removed": false
+  },
+  {
+    "book_id": "6",
+    "title": "Carrie",
+    "author": "Stephen King",
+    "year": "1974",
+    "max_loan_time": "5",
+    "is_removed": false
+  },
+  {
+    "book_id": "7",
+    "title": "Harry Potter",
+    "author": "Joanne Rowling",
+    "year": "1997",
+    "max_loan_time": "2",
+    "is_removed": false
+  },
+  {
+    "book_id": "8",
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "year": "1847",
+    "max_loan_time": "10",
+    "is_removed": false
+  },
+  {
+    "book_id": "9",
+    "title": "Fiesta",
+    "author": "Ernest Hermingway",
+    "year": "1926",
+    "max_loan_time": "5",
+    "is_removed": true
+  },
+  {
+    "book_id": "10",
+    "title": "Dumb Witness",
+    "author": "Agatha Christie",
+    "year": "1937",
+    "max_loan_time": "5",
+    "is_removed": false
+  },
+  {
+    "book_id": "11",
+    "title": "Alice in Wonderland",
+    "author": "Lewis Carrol",
+    "year": "1865",
+    "max_loan_time": "10",
+    "is_removed": false
+  },
+  {
+    "book_id": "12",
+    "title": "The Godfather",
+    "author": "Mario Puzo",
+    "year": "1969",
+    "max_loan_time": "2",
+    "is_removed": false
+  },
+  {
+    "book_id": "13",
+    "title": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "year": "1987",
+    "max_loan_time": "5",
+    "is_removed": false
+  },
+  {
+    "book_id": "14",
+    "title": "The Lord of the Rings",
+    "author": "J. R. R. Tolkien",
+    "year": "1954",
+    "max_loan_time": "10",
+    "is_removed": true
+  },
+  {
+    "book_id": "15",
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupery",
+    "year": "1943",
+    "max_loan_time": "2",
+    "is_removed": false
+  },
+  {
+    "book_id": "16",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "year": "1901",
+    "max_loan_time": "5",
+    "is_removed": false
+  },
+  {
+    "book_id": "17",
+    "title": "Three Comrades",
+    "author": "Erich Maria Remarque",
+    "year": "1936",
+    "max_loan_time": "10",
+    "is_removed": true
+  },
+  {
+    "book_id": "18",
+    "title": "Harry Potter",
+    "author": "J. Rowling",
+    "year": "1997",
+    "max_loan_time": "2",
+    "is_removed": false
+  },
+  {
+    "book_id": "19",
+    "title": "Fight Club",
+    "author": "Chuck Palahniuk",
+    "year": "1996",
+    "max_loan_time": "5",
+    "is_removed": false
+  }
+]
