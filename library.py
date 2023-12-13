@@ -36,7 +36,7 @@ class Library:
     def find_book_by_title(self, title):
         same_books = []
         for book in self.books:
-            if book.title.lower() == title and not book.is_removed:
+            if book.title.lower() == title.lower() and not book.is_removed:
                 same_books.append(book)
         return same_books
     
@@ -50,7 +50,7 @@ class Library:
     def find_customer_by_name(self, name):
         same_names = []
         for customer in self.customers:
-            if customer.name.lower() == name and not customer.is_removed:
+            if customer.name.lower() == name.lower() and not customer.is_removed:
                 same_names.append(customer)
         return same_names
 
